@@ -1,6 +1,6 @@
 cask "groundsurf" do
-  version "1.4.1"
-  sha256 "8adc04c9b1b9dcb03135c421a55f4e9c22492b8aaf84b767182f5046fbe41631"
+  version "1.4.2"
+  sha256 "30adf4a26a3b39a784d3ce01e0341e3719bb86858f5da8717f6599484ee75652"
 
   url "https://github.com/takingbreath/GroundSurf/releases/download/v#{version}/GroundSurf-#{version}-universal.dmg"
   name "GroundSurf"
