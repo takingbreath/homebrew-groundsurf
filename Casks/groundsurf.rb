@@ -7,7 +7,7 @@ cask "groundsurf" do
   desc "Endlessly generated Chinese landscape wallpaper"
   homepage "https://github.com/takingbreath/GroundSurf"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "GroundSurf.app"
 
